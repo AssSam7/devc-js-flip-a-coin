@@ -43,6 +43,7 @@ body {
 
 .toss-img-wrapper {
   padding: 2rem 0;
+  cursor: pointer;
 
   & img {
     width: 100%;
@@ -69,6 +70,7 @@ body {
 }
 
 .btn {
+  cursor: pointer;
   border: 0;
   outline: none;
   padding: 1rem 2rem;
